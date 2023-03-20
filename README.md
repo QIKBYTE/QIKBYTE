@@ -1,20 +1,6 @@
 ### Hi there 👋
-##### atualemente estou aprenden Github
-
-
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-          
-          
-
-
-
-
-
-
-
-
-
+**atualmente** estou aprenden Github
+            
 <!--
 **QIKBYTE/QIKBYTE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
